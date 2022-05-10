@@ -2,9 +2,9 @@
 
 
 - :computer: Acting as a Software Analyst 
-- :scroll: Pós graduado MBA em Data Mining.
-- :scroll: Estudando pós graduação em Engenharia de Software 
-- 📫 Contate-me no email: rafael.pereira20@icloud.com
+- :scroll: Tecnologia em Análise e Desenvolvimento de Sistemas.
+- :scroll: Estudando "Tester Foundation do ISQB/BSTQB"
+- 📫 Contate-me no email: arturg.santana@gmail.com
 
 <div align="center">
   <a href="https://github.com/rafaelThi">
